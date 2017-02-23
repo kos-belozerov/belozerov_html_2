@@ -1,0 +1,109 @@
+@import url(fonts.css);
+
+/*@import url(normalize.css);*/
+
+.main{
+  width: 500px;
+  margin: 0 auto;
+}
+
+body {
+  font-size: 14px;
+  background-color: #f4f0f4;
+}
+
+.head-title{
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-family: ArialBold;
+  /*font-weight: bold;*/
+  font-size: 36px;
+  text-transform: uppercase;
+}
+
+.head-info p{
+  font-family: ArialRegular;
+  text-align: left;
+  margin-bottom: 15px;
+  border-bottom: 1px solid #c5c3c4;
+  padding-bottom: 20px;
+}
+
+img{
+  width: 200px;
+  height: 200px;
+  border: 1px solid #8f8f8f;
+  margin: -4px;
+}
+
+.info1,
+.info2,
+.info3,
+.info4
+{
+ font-family: MyriadProRegular;
+  text-align: left;
+  /*margin-bottom: 15px;*/
+}
+
+h2{
+  font-family: MyriadProBold;
+  color: black;
+  /*font-weight: bold;*/
+  font-size: 18px;
+
+}
+
+.info2 p,
+a{
+  padding-left: 35px;
+}
+
+.info1 h2{
+  margin-top: 5px;
+  margin-bottom: 23px;
+}
+
+.info2 h2{
+  margin-top: 15px;
+}
+
+.info2 p {
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+.info3 h2{
+  margin-top: 11px;
+  margin-bottom: 20px;
+}
+
+.info3 a {
+  display: block;
+  margin-bottom: 13px;
+}
+
+.info4 h2{
+  margin-top: 15px;
+  padding-bottom: 5px;
+}
+
+ul {
+  display: block;
+  margin-top: 14px;
+  padding-bottom: 6px;
+}
+
+.info1 {
+  border-bottom: 1px solid #c5c3c4;
+}
+
+.info3 {
+  border-bottom: 1px solid #c5c3c4;
+  padding-bottom: 6px;
+}
